@@ -58,3 +58,5 @@ git push origin main
 Alterações em uma branch especifica
 git push origin "nome da branch"
 
+Atualizar o repositório
+git pull
