@@ -60,3 +60,6 @@ git push origin "nome da branch"
 
 Atualizar o repositório
 git pull
+
+Clonar repositório
+git clone "url do repositório"
