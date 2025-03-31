@@ -1,0 +1,18 @@
+Criar repositório
+git init
+
+Mostrar alterações
+git status
+
+Adicionar ou atualizar arquivos
+git add "nome do arquivo"
+
+Adicionar todos os arquivos
+git add .
+
+Comitar um arquivo
+git commit "nome do arquivo" -m "descrição"
+
+Comitar todos os arquivos
+git commit -m "descrição"
+
