@@ -16,3 +16,45 @@ git commit "nome do arquivo" -m "descrição"
 Comitar todos os arquivos
 git commit -m "descrição"
 
+Listar as branches
+git branch
+
+Criar uma nova branch
+git branch "nome da branch"
+
+Renomear uma branch
+git branch -M "nome da branch"
+
+Deletar uma branch (não mesclada)
+git branch -d "nome da branch"
+
+Deletar uma branch (mesclada)
+bit branch -D "nome da branch"
+
+Alternar entre uma branch e outra
+git checkout "nome da branch"
+
+Criar e alternar para uma nova branch
+git checkout -b "nome da branch"
+
+Visualizar repositórios
+git remote -v
+
+Adicionar um repositório
+git remote add "nome do repositório" "URL do repositório"
+
+Renomear um repositório
+git remote rename "nome antigo" "novo nome"
+
+Remover repositório
+git remote remove "nome do repositório"
+
+Alterar a URL de um repositório
+git remote set-url "nome do repositório" "nova URL"
+
+Comitar para um repositório remoto
+git push origin main
+
+Alterações em uma branch especifica
+git push origin "nome da branch"
+
