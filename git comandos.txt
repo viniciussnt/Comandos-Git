@@ -63,3 +63,6 @@ git pull
 
 Clonar repositório
 git clone "url do repositório"
+
+Acessar logs
+git log
