@@ -69,3 +69,5 @@ git log
 
 Reverte arquivos
 git checkout "nome do arquivo"
+
+git
